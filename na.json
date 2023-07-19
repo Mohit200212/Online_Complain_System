@@ -1,0 +1,628 @@
+[{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e202d"
+  },
+  "<!DOCTYPE html>": "<html>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e202e"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e202f"
+  },
+  "<!DOCTYPE html>": "<head>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2030"
+  },
+  "<!DOCTYPE html>": "    <style>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2031"
+  },
+  "<!DOCTYPE html>": "        body {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2032"
+  },
+  "<!DOCTYPE html>": "            background-color: rgba(25, 169, 217, 0.938);"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2033"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2034"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2035"
+  },
+  "<!DOCTYPE html>": "        .t table {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2036"
+  },
+  "<!DOCTYPE html>": "            width: 100%;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2037"
+  },
+  "<!DOCTYPE html>": "            height: 45pc;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2038"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2039"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203a"
+  },
+  "<!DOCTYPE html>": "        .t td {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203b"
+  },
+  "<!DOCTYPE html>": "            width: 50%;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203c"
+  },
+  "<!DOCTYPE html>": "            text-align: center;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203d"
+  },
+  "<!DOCTYPE html>": "            background-color: rgb(95, 215, 255);"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203e"
+  },
+  "<!DOCTYPE html>": "            /*background-image: linear-gradient(to right white,aqua);*/"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e203f"
+  },
+  "<!DOCTYPE html>": "            font-size: large;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2040"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2041"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2042"
+  },
+  "<!DOCTYPE html>": "        .t form {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2043"
+  },
+  "<!DOCTYPE html>": "            font-size: 40px;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2044"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2045"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2046"
+  },
+  "<!DOCTYPE html>": "        .t input {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2047"
+  },
+  "<!DOCTYPE html>": "            font-size: 30px;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2048"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2049"
+  },
+  "<!DOCTYPE html>": "        .t legend{"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204a"
+  },
+  "<!DOCTYPE html>": "            background-color: rgba(91, 213, 254, 0.938);"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204b"
+  },
+  "<!DOCTYPE html>": "            margin-left: 20pc;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204c"
+  },
+  "<!DOCTYPE html>": "            margin-right: 20pc;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204d"
+  },
+  "<!DOCTYPE html>": "            border-radius: 20px;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204e"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e204f"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2050"
+  },
+  "<!DOCTYPE html>": "        .fg label {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2051"
+  },
+  "<!DOCTYPE html>": "            font-size: 25px;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2052"
+  },
+  "<!DOCTYPE html>": "            margin-left: 20pc;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2053"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2054"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2055"
+  },
+  "<!DOCTYPE html>": "        .log_but input {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2056"
+  },
+  "<!DOCTYPE html>": "            cursor: pointer;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2057"
+  },
+  "<!DOCTYPE html>": "            border-radius:15px;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2058"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2059"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205a"
+  },
+  "<!DOCTYPE html>": "        .slide {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205b"
+  },
+  "<!DOCTYPE html>": "            width: 50%;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205c"
+  },
+  "<!DOCTYPE html>": "            height: 96vh;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205d"
+  },
+  "<!DOCTYPE html>": "            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205e"
+  },
+  "<!DOCTYPE html>": "            display: block;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e205f"
+  },
+  "<!DOCTYPE html>": "            background-size: cover;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2060"
+  },
+  "<!DOCTYPE html>": "            position: absolute;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2061"
+  },
+  "<!DOCTYPE html>": "            background-image: url('sistec.jpg');"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2062"
+  },
+  "<!DOCTYPE html>": "            animation: slideshow 15s infinite linear;"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2063"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2064"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2065"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2066"
+  },
+  "<!DOCTYPE html>": "        @keyframes slideshow {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2067"
+  },
+  "<!DOCTYPE html>": "            0% {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2068"
+  },
+  "<!DOCTYPE html>": "                background-image: url(\"sistec.jpg\");"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2069"
+  },
+  "<!DOCTYPE html>": "            }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206a"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206b"
+  },
+  "<!DOCTYPE html>": "            25% {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206c"
+  },
+  "<!DOCTYPE html>": "                background-image: url(\"sistec2.jpg\");"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206d"
+  },
+  "<!DOCTYPE html>": "            }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206e"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e206f"
+  },
+  "<!DOCTYPE html>": "            50% {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2070"
+  },
+  "<!DOCTYPE html>": "                background-image: url(\"sistec3.jpg\");"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2071"
+  },
+  "<!DOCTYPE html>": "            }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2072"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2073"
+  },
+  "<!DOCTYPE html>": "            75% {"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2074"
+  },
+  "<!DOCTYPE html>": "                background-image: url(\"sistec4.jpg\");"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2075"
+  },
+  "<!DOCTYPE html>": "            }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2076"
+  },
+  "<!DOCTYPE html>": "        }"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2077"
+  },
+  "<!DOCTYPE html>": "    </style>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2078"
+  },
+  "<!DOCTYPE html>": "</head>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2079"
+  },
+  "<!DOCTYPE html>": "<title></title>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207a"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207b"
+  },
+  "<!DOCTYPE html>": "<body>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207c"
+  },
+  "<!DOCTYPE html>": "    <div class=\"t\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207d"
+  },
+  "<!DOCTYPE html>": "        <table>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207e"
+  },
+  "<!DOCTYPE html>": "            <tr>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e207f"
+  },
+  "<!DOCTYPE html>": "                <div class=\"slide\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2080"
+  },
+  "<!DOCTYPE html>": "                    <td>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2081"
+  },
+  "<!DOCTYPE html>": "                        <div class=\"quote\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2082"
+  },
+  "<!DOCTYPE html>": "                            WE ARE HERE"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2083"
+  },
+  "<!DOCTYPE html>": "                        </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2084"
+  },
+  "<!DOCTYPE html>": "                        <div class=\"quote2\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2085"
+  },
+  "<!DOCTYPE html>": "                            TO MAKE SISTEC BETTER!!"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2086"
+  },
+  "<!DOCTYPE html>": "                        </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2087"
+  },
+  "<!DOCTYPE html>": "                    </td>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2088"
+  },
+  "<!DOCTYPE html>": "                </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2089"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208a"
+  },
+  "<!DOCTYPE html>": "                <div class=\"f\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208b"
+  },
+  "<!DOCTYPE html>": "                    <td>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208c"
+  },
+  "<!DOCTYPE html>": "                        <form>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208d"
+  },
+  "<!DOCTYPE html>": "                            <legend>Log In</legend><br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208e"
+  },
+  "<!DOCTYPE html>": "                            <label>User Name</label>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e208f"
+  },
+  "<!DOCTYPE html>": "                            <br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2090"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2091"
+  },
+  "<!DOCTYPE html>": "                            <input type=\"text\" name=\"u_name\" placeholder=\"Enter User Name\" size=\"30\""
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2092"
+  },
+  "<!DOCTYPE html>": "                                style=\"height: 2pc;\" required>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2093"
+  },
+  "<!DOCTYPE html>": "                            <br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2094"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2095"
+  },
+  "<!DOCTYPE html>": "                            <label>Password</label>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2096"
+  },
+  "<!DOCTYPE html>": "                            <br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2097"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2098"
+  },
+  "<!DOCTYPE html>": "                            <input type=\"password\" name=\"password\" placeholder=\"Enter Password\" size=\"30\""
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e2099"
+  },
+  "<!DOCTYPE html>": "                                style=\"height: 2pc;\" required>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209a"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209b"
+  },
+  "<!DOCTYPE html>": "                            <br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209c"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209d"
+  },
+  "<!DOCTYPE html>": "                            <div class=\"fg\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209e"
+  },
+  "<!DOCTYPE html>": "                                <label>Forgot <a href=\">Password?</a></label>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e209f"
+  },
+  "<!DOCTYPE html>": "                            </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a0"
+  },
+  "<!DOCTYPE html>": "                            <br>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a1"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a2"
+  },
+  "<!DOCTYPE html>": "                            <div class=\"log_but\">"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a3"
+  },
+  "<!DOCTYPE html>": "                                <input type=\"button\" name=\"button\" value=\"Submit\" required>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a4"
+  },
+  "<!DOCTYPE html>": "                            </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a5"
+  },
+  "<!DOCTYPE html>": "                        </form>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a6"
+  },
+  "<!DOCTYPE html>": "                    </td>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a7"
+  },
+  "<!DOCTYPE html>": "            </tr>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a8"
+  },
+  "<!DOCTYPE html>": "    </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20a9"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20aa"
+  },
+  "<!DOCTYPE html>": "    </table>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20ab"
+  },
+  "<!DOCTYPE html>": "    </div>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20ac"
+  },
+  "<!DOCTYPE html>": "</body>"
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20ad"
+  }
+},{
+  "_id": {
+    "$oid": "631c8618cc3ea7c9b95e20ae"
+  },
+  "<!DOCTYPE html>": "</html>"
+}]

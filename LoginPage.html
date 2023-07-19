@@ -1,0 +1,126 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="{% static 'fstyle.css'%}">
+    <style>
+        body {
+            background-color: rgba(25, 169, 217, 0.938);
+        }
+
+        .t table {
+            width: 100%;
+            height: 45pc;
+        }
+
+        .t td {
+            width: 40%;
+            text-align: center;
+            background-color: rgb(95, 215, 255);
+            /*background-image: linear-gradient(to right white,aqua);*/
+            font-size: large;
+        }
+
+        .t form {
+            font-size: 40px;
+        }
+
+        .t input {
+            font-size: 30px;
+        }
+        .t legend{
+            background-color: rgba(91, 213, 254, 0.938);
+            margin-left: 20pc;
+            margin-right: 20pc;
+            border-radius: 20px;
+        }
+
+        .fg label {
+            font-size: 25px;
+            margin-left: 20pc;
+        }
+
+        .log_but input {
+            cursor: pointer;
+            border-radius:15px;
+        }
+
+        .slide {
+            width: 50%;
+            height: 96vh;
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+            display: block;
+            background-size: cover;
+            position: absolute;
+            background-image: url('sistec.jpg');
+            animation: slideshow 15s infinite linear;
+
+        }
+           
+
+       
+    </style>
+</head>
+<title></title>
+
+<body>
+    <div class="t">
+          
+
+   </form>
+         <table>
+            <tr>
+                <div class="slide">
+                    
+                    <td>
+                        <div class="quote">
+                            WE ARE HERE
+                           
+                        </div>
+                        <div class="quote2">
+                            TO MAKE SISTEC BETTER!!
+                        </div>
+                    </td>
+                </div>
+
+                <div class="f">
+                    <td>
+                        <form method="POST" novalidate>
+                            {% csrf_token%}
+                            <legend>Log In  </legend><br>
+                            <label>User Name</label>
+                            <br>
+
+                            <input type="text" name="username" placeholder="Enter User Name" size="30"
+                                style="height: 2pc;" required>
+                            <br>
+
+                            <label>Password</label>
+                            <br>
+
+                            <input type="password" name="password" placeholder="Enter Password" size="30"
+                                style="height: 2pc;" required>
+
+                            <br>
+
+                            <div class="fg">
+                                <label>Forgot <a href="">Password?</a></label>
+                            </div>
+                            <br>
+
+                            <div class="log_but">
+                                
+                                <button type="submit">Login</button>
+                            </div>
+                        </form>
+                    </td>
+            </tr>
+    </div>
+
+    </table> 
+    </div>
+    
+</body>
+
+</html>
